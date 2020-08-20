@@ -33,7 +33,7 @@
     "@types/joi": "^14.3.3",
     "@types/passport-jwt": "^3.0.1",
     "@types/uuid": "^3.4.5",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.9.1",
     "dotenv": "^8.0.0",
